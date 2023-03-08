@@ -17,9 +17,24 @@
   "files.autoSave": "afterDelay",
   "screencastMode.onlyKeyboardShortcuts": true,
   "terminal.integrated.fontSize": 18,
-  "window.zoomLevel": 3,
   "workbench.activityBar.visible": true,
   "workbench.colorTheme": "Visual Studio Dark",
   "workbench.fontAliasing": "antialiased",
-  "workbench.statusBar.visible": true
+  "workbench.statusBar.visible": true,
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "127.0.0.1",
+      "port": 3306,
+      "driver": "MariaDB",
+      "name": "H+ Sport",
+      "database": "hplussport",
+      "username": "mariadb",
+      "password": "mariadb"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
 }
