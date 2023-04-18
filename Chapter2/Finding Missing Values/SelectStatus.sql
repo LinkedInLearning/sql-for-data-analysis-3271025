@@ -1,0 +1,2 @@
+SELECT Status
+from Salesperson
