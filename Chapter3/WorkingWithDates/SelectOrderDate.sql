@@ -1,0 +1,2 @@
+SELECT CreationDate
+FROM Orders
