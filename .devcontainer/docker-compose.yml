@@ -41,6 +41,10 @@ services:
       MYSQL_DATABASE: hplussport
       MYSQL_USER: mariadb
       MYSQL_PASSWORD: mariadb
+    expose:
+      - "5433"
+    ports:
+      - "5433:5432"
 
 volumes:
   mariadb-data:
