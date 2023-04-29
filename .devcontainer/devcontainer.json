@@ -41,6 +41,6 @@
   "postCreateCommand": "sudo sh .devcontainer/startup.sh",
   // Comment out to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
   "remoteUser": "vscode",
-  "forwardPorts": ["5433"],
+  "forwardPorts": ["5432"],
   "onCreateCommand": "echo PS1='\"$ \"' >> ~/.bashrc" //Set Terminal Prompt to $
 }
