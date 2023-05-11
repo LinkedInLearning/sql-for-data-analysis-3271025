@@ -1,2 +1,2 @@
 SELECT Status
-from Salesperson
+from Salesperson;

@@ -2,7 +2,7 @@ SELECT
 Customer.CustomerID,
   FirstName,
   LastName,
-  Sum(TotalDue)
+  Sum(Email)
 From Customer
   JOIN Orders on Customer.CustomerID = Orders.CustomerID
 GROUP BY Customer.CustomerID,
