@@ -6,15 +6,14 @@ This course is integrated with GitHub Codespaces, an instant cloud developer env
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
-This repository has folders for each of the videos in the course. Each folder corresponds to a chapter, and the sample file mentioned in the videos. 
+This repository has folders for each of the videos in the course. Each folder corresponds to a chapter and the sample file mentioned in the videos. 
 
 
 ## Installing
 To use these exercise files, you must have the following installed:
-
-The following VS Code extensions are used in this course and are helpful with viewing SQL results and PDFs.
-PDFViewer
-You can install the HTML Preview or Open in Default Browser extensions in VS Code to open your html files to view.
+1. In Chapter 5, install suggested extensions for Python and Jupyter when prompted. In Select Kernal (Type to Choose Kernal Source), Choose Python Environments -> Python 3.11.4 (Recommended).
+2. PDF Viewer for viewing ERD.
+3. Install the HTML Preview or Open in Default Browser extensions in VS Code to open html files to view.
 
 
 ## Instructor
