@@ -11,11 +11,14 @@ This repository has folders for each of the videos in the course. Each folder co
 
 ## Installing
 To use these exercise files, you must have the following installed:
-1. In Chapter 5, install suggested extensions for Python and Jupyter when prompted. In Select Kernal (Type to Choose Kernal Source), Choose Python Environments -> Python 3.11.4 (Recommended).
+1. In Chapter 5, install suggested extensions for Python and Jupyter when prompted. In Select Kernel (Type to Choose Kernel Source), Choose Python Environments -> Python 3.11.4 (Recommended).
 2. PDF Viewer for viewing ERD.
 3. Install the HTML Preview or Open in Default Browser extensions in VS Code to open html files to view.
 4. Before starting this exercise, Create V_Orders View for Chapter 5 Dashboard by running the "Create View V_Orders.sql" file.
 
+
+## Tips
+1. For Chapter 5, restart the kernel to stop the dashboard from running on port 8050.
 
 ## Instructor
 Nikiya Simpson
