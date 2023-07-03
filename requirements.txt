@@ -3,3 +3,5 @@ sqlalchemy
 pandas
 plotly
 pymysql
+nbformat>=4.2.0
+dash
