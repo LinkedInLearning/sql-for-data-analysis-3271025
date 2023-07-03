@@ -1,5 +1,4 @@
-DROP VIEW V_Orders;
-CREATE VIEW V_Orders AS
+CREATE OR REPLACE VIEW V_Orders AS
 SELECT O.CreationDate AS OrderDate,
   CONCAT(S.FirstName, ' ', S.LastName) AS Salesperson,
   COUNT(1) AS 'Amount of Orders',
