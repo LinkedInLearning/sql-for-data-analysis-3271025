@@ -1,8 +1,11 @@
 # SQL for Data Analysis
 This is the repository for the LinkedIn Learning course SQL for Data Analysis. The full course is available from [LinkedIn Learning][lil-course-url].
 
-This course is integrated with GitHub Codespaces, an instant cloud developer environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time—all while using a tool that you’ll likely encounter in the workplace. Check out the Using GitHub Codespaces with this course video to learn how to get started.
+![SQL for Data Analysis][lil-thumbnail-url] 
 
+If you’re looking to get Structured Query Language into your application development, but your story is more prequel than SQL, you need to build a solid foundational knowledge of SQL analysis. In this course, instructor Nikiya Simpson starts with a quick review of SQL basics, then focuses on fundamental SQL queries used in beginning data analysis. Nikiya explains the importance of asking the right questions of your data, as well as how those questions translate into SQL. She also shows how these concepts can be used to derive quick insights from your data to help drive effective decision-making. Nikiya finishes the course by demonstrating how to incorporate queries into tools like Microsoft Power BI to help bring your data to life.
+
+This course is integrated with GitHub Codespaces, an instant cloud developer environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time—all while using a tool that you’ll likely encounter in the workplace. Check out both Codespaces videos to learn how to get started.
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
@@ -23,10 +26,7 @@ To use these exercise files, you must have the following installed:
 ## Instructor
 Nikiya Simpson
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/nikiya-simpson?u=104). 
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/nikiya-simpson).
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
-
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
-
+[lil-course-url]: https://www.linkedin.com/learning/sql-for-data-analysis-22645200?dApp=59033956&leis=LAA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHW625ALPsQSQ/learning-public-crop_288_512/0/1689272470053?e=2147483647&v=beta&t=m-nlhw9I-NHTiW837dreat8J-H8Hhzrqv_bDBN3edVs
