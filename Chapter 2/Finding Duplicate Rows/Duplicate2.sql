@@ -1,4 +1,4 @@
 SELECT FirstName, LastName, COUNT(1)
 FROM Customer
 GROUP BY FirstName, LastName
-HAVING COUNT(1) > 1
+HAVING COUNT(1) > 1 -- check duplicate
