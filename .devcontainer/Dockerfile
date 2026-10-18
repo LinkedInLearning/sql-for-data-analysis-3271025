@@ -1,5 +1,5 @@
-ARG VARIANT=3-bullseye
-FROM mcr.microsoft.com/vscode/devcontainers/python:${VARIANT}
+ARG VARIANT=3-bookworm
+FROM mcr.microsoft.com/devcontainers/python:${VARIANT}
 
 ENV PYTHONUNBUFFERED 1
 
