@@ -1,0 +1,10 @@
+"FirstName","LastName","-- Number of rows for each (FirstName, LastName) Combination
+        COUNT(1)"
+"Brandon","Murray","2"
+"Carolyn","Welch","2"
+"Christopher","Brooks","2"
+"Cynthia","Greene","2"
+"Frances","Jones","2"
+"Lori","Harris","2"
+"Randy","Gonzales","2"
+"Randy","Parker","2"
